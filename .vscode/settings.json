@@ -1,5 +1,6 @@
 {
     "yaml.schemas": {
         "https://raw.githubusercontent.com/dbt-labs/dbt-jsonschema/main/schemas/dbt_project.json": "file:///c%3A/Users/mahsu/Documents/_dbt_materials/dbt-tutorial-course/answers/dbt_project.yml"
-    }
+    },
+    "dbt.queryLimit": 500
 }
